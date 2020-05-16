@@ -9,3 +9,5 @@
 [ Read 04 -  Classes and Objects, Thinking Recursively and Pytest Fixtures and Coverage ](read04.md)
 
 [ Read 05 -  Linked Lists ](read05.md)
+
+[ Read 06, Random Module and Dependency Injection](read06.md)
