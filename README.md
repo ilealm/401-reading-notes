@@ -10,4 +10,7 @@
 
 [ Read 05 -  Linked Lists ](read05.md)
 
-[ Read 06, Random Module and Dependency Injection](read06.md)
+[ Read 06 - Random Module and Dependency Injection](read06.md)
+
+[ Read 07 - Game of Greed 2 ](read07.md)
+
