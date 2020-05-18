@@ -1,8 +1,10 @@
+[ HOME INDEX ](README.md)
 # Read 08 - Decorators and List Comprehensions
 
 > Decorators provide a simple syntax for calling higher-order functions.
 
 ## First-Class Objects
+
 
 * In Python, functions are first-class objects.
 * This means that functions can be passed around and used as arguments.
@@ -285,3 +287,5 @@ for item in list:
     if conditional:
         expression
 ``  
+
+[link to article source](https://www.pythonforbeginners.com/basics/list-comprehensions-in-python)
