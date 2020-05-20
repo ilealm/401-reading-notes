@@ -15,3 +15,5 @@
 [ Read 07 - Game of Greed 2 ](read07.md)
 
 [ Read 08 - Decorators and List Comprehensions ](read08.md)
+
+[ Read 09 - Statistics - Probability ](read09.md)
