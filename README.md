@@ -17,3 +17,5 @@
 [ Read 08 - Decorators and List Comprehensions ](read08.md)
 
 [ Read 09 - Statistics - Probability ](read09.md)
+
+[ Read 10 - Stacks and Queues ](read10.md)
