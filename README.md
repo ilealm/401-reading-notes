@@ -25,3 +25,5 @@
 [ Read 12 - matplotlib  Tutorial ](read12.md)
 
 [ Read 13 - Linear Regressions ](read13.md)
+
+[ Read 13 - Data Visualization ](read14.md)
