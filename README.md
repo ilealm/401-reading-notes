@@ -26,4 +26,6 @@
 
 [ Read 13 - Linear Regressions ](read13.md)
 
-[ Read 13 - Data Visualization ](read14.md)
+[ Read 14 - Data Visualization ](read14.md)
+
+[ Read 15 - Trees ](read15.md)
