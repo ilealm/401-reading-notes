@@ -34,3 +34,4 @@
 
 [ Read 18 - Cryptography ](read18.md)
 
+[ Read 19 - Automation ](read19.md)
