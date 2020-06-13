@@ -38,9 +38,9 @@
 
 [ Read 26 - Intro to Django ](read26.md)
 
-<!-- [ Read 19 - Automation ](read27.md)
+[ Read 27 - Django Models ](read27.md)
 
-[ Read 19 - Automation ](read28.md)
+<!-- [ Read 19 - Automation ](read28.md)
 
 [ Read 19 - Automation ](read29.md)
 
