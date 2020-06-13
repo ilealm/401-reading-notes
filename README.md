@@ -42,7 +42,7 @@
 
 [ Read 28 - Django CRUD and Forms ](read28.md)
 
- [ Read 19 - Django Custom User ](read29.md)
+[ Read 29 - Django Custom User ](read29.md)
 
-<!--[ Read 19 - Automation ](read.md) -->
+[ Read 30 - Hash Tables ](read30.md)
 
