@@ -133,7 +133,7 @@ def homepage(request):
 % load i18n %}
 <html>
   <head>
-    <title>{% trans 'Homepage - Hall of Fame' %}</title>
+    <title>{% 'Homepage - Hall of Fame' %}</title>
   </head>
   <body>
     {# Translated in the view: #}
@@ -149,7 +149,7 @@ def homepage(request):
     {% for band in bands %}
       <li>
         <h2><a href="{{ band.get_absolute_url }}">{{ band.name }}</a></h2>
-        {% if band.can_rock %}<p>{% trans 'This band can rock!' %}</p>{% endif %}
+        {% if band.can_rock %}<p>{%  'This band can rock!' %}</p>{% endif %}
       </li>
     {% endfor %}
     </ul>
