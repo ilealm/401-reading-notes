@@ -35,3 +35,14 @@
 [ Read 18 - Cryptography ](read18.md)
 
 [ Read 19 - Automation ](read19.md)
+
+[ Read 26 - Intro to Django ](read26.md)
+
+<!-- [ Read 19 - Automation ](read27.md)
+
+[ Read 19 - Automation ](read28.md)
+
+[ Read 19 - Automation ](read29.md)
+
+[ Read 19 - Automation ](read.md) -->
+
