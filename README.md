@@ -46,4 +46,7 @@
 
 [ Read 30 - Hash Tables ](read30.md)
 
-[ Read 30 - Django REST Framework & Docker ](read31.md)
+[ Read 31 - Django REST Framework & Docker ](read31.md)
+
+[ Read 32 - Permissions & Postgresql ](read32.md)
+
