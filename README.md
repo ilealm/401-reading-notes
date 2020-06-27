@@ -56,3 +56,5 @@
 
 [ Read 35 - Graphs ](read35.md)
 
+[ Read 36 - DSA Review ](read36.md)
+
