@@ -24,3 +24,5 @@ You can ask if there is anything in particular you should prepare. They very wel
 
 # Sources
 [Enterview](https://hackernoon.com/the-best-whiteboard-interview-advice-i-ever-received-3ebbfa72e4a)
+
+[Gayle Laakmann McDowell Deconstructs the Engineering Interview Process](https://www.youtube.com/watch?v=KdXAUst8bdo)
