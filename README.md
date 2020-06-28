@@ -58,5 +58,7 @@
 
 [ Read 36 - DSA Review ](read36.md)
 
-[ Read 37 - ES6 and React I ](read36.md)
+[ Read 37 - ES6 and React I ](read37.md)
+
+[ Read 38 - React II ](read38.md)
 
