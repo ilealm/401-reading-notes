@@ -63,3 +63,9 @@
 [ Read 38 - React II ](read38.md)
 
 [ Read 39 - React III ](read39.md)
+
+[ Read 41 - Security ](read41.md)
+
+[ Read 43 - Pythonisms ](read43.md)
+
+[ Read 44 - Getting Stylish with Sass ](read44.md)
