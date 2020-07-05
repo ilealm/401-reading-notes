@@ -117,11 +117,6 @@ class Account:
 
 ```
 
-# Sources
-[Source Dunder](https://dbader.org/blog/python-dunder-methods)
-[Iterators](https://dbader.org/blog/python-iterators)
-[Generations](https://dbader.org/blog/python-generators)
-
 
 ___________
 
@@ -154,3 +149,11 @@ ___________
 - Generator functions are syntactic sugar for writing objects that support the iterator protocol. Generators abstract away much of the boilerplate code needed when writing class-based iterators.
 - The yield statement allows you to temporarily suspend execution of a generator function and to pass back values from it.
 - Generators start raising StopIteration exceptions after control flow leaves the generator function by any means other than a yield statement.
+
+
+# Sources
+[Source Dunder](https://dbader.org/blog/python-dunder-methods)
+
+[Iterators](https://dbader.org/blog/python-iterators)
+
+[Generations](https://dbader.org/blog/python-generators)
