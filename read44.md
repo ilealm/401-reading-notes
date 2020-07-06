@@ -71,7 +71,7 @@ TEMPLATES = [{
 **_Usage_**
 
 In your Django templates
-{% load sass_tags %}
+
 
 `<link href="{% sass_src 'myapp/css/mystyle.scss' %}" rel="stylesheet" type="text/css" />`
 
