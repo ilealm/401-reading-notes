@@ -66,8 +66,8 @@
 
 [ Read 41 - Security ](read41.md)
 
-[ Read 43 - Pythonisms ](read43.md)
+[ Read 42 - Deployment, ElephantSQL ](read42.md)
 
-[ Read 43 - Deployment, ElephantSQL ](read43.md)
+[ Read 43 - Pythonisms ](read43.md)
 
 [ Read 44 - Getting Stylish with Sass ](read44.md)
