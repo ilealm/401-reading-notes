@@ -66,7 +66,7 @@
 
 [ Read 41 - Security ](read41.md)
 
-[ Read 42 - Deployment, ElephantSQL ](read42.md)
+[ Read 42 - Deployment, ElephantSQL and Docker on Heroku ](read42.md)
 
 [ Read 43 - Pythonisms ](read43.md)
 
