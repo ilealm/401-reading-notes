@@ -68,12 +68,6 @@ TEMPLATES = [{
 
 ```
 
-**_Usage_**
-
-In your Django templates
-
-
-`<link href="{% sass_src 'myapp/css/mystyle.scss' %}" rel="stylesheet" type="text/css" />`
 
 ## Configure SASS variables through settings.py
 
