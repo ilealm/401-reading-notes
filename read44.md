@@ -11,7 +11,7 @@
 
 django-sass-processor converts *.scss or *.sass files into *.css while rendering templates. For performance reasons this is done only once, since the preprocessor keeps track on the timestamps and only recompiles, if any of the imported SASS/SCSS files is younger than the corresponding generated CSS file.
 
-This Django app provides a templatetag `{% sass_src 'path/to/file.scss' %}`, which can be used instead of the built-in templatetag static. This templatetag also works inside Jinja2 templates.
+This Django app provides a templatetag {% sass_src "path/to/file.scss" %}, which can be used instead of the built-in templatetag static. This templatetag also works inside Jinja2 templates.
 
 If SASS/SCSS files shall be referenced through the Media class, or media property, the SASS processor can be used directly.
 
